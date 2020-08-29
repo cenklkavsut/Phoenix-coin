@@ -8,9 +8,12 @@ from MiningCoin import Mine
 
 #start mining
 recipient=input("Enter your name:")
-mining=Mine(recipient);
+mining=Mine(recipient)
+
+
+
 
 #ToDo:create interface
-#ToDo: allow runing constantly
+#ToDo: allow running constantly
 #ToDo:allow transactions
 #ToDo:allow mining
